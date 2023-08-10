@@ -18,7 +18,7 @@ products = load_product_data()
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-st.title("Your personal assistant")
+st.title("Smart Search  Engine")
 
 def is_valid_query(query):
     # Define keywords or patterns that indicate a valid query
@@ -69,7 +69,7 @@ if st.button("Send"):
     s = get_reply(text)
     keywords_from_response = s.split()  # Extract keywords from GPT-4 response
     st.write(s)
-    st.write("Keywords from response:", keywords_from_response)  # Add this line to debug
+    #st.write("Keywords from response:", keywords_from_response)  # Add this line to debug
 
     if keywords_from_response:
         matching_products = get_matching_products(keywords_from_response)
