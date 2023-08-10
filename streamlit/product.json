@@ -216,7 +216,7 @@
     },
     {
         "name": "Elegant Dining Table",
-        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/elegant_dining_table.webp",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Elegant Dining Table.jpeg",
         "price": "$550",
         "description": "Elegant dining table for formal gatherings.",
         "keywords": ["dining table", "elegant", "formal","furniture","home"]
@@ -244,7 +244,7 @@
     },
     {
         "name": "Chic Vanity Set",
-        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/chic_vanity_set.jpeg",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Chic Vanity Set.jpeg",
         "price": "$320",
         "description": "Chic vanity set for stylish and functional makeup sessions.",
         "keywords": ["vanity set", "chic", "makeup","house","furniture"]
