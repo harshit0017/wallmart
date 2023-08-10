@@ -1,0 +1,255 @@
+[
+    {
+        "name": "Black Dress",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Black Dress.webp",
+        "price": "$50",
+        "description": "Elegant black dress for special occasions.",
+        "keywords": ["dress", "black", "elegant"]
+    },
+    {
+        "name": "Blue Shoes",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Blue Shoes.webp",
+        "price": "$70",
+        "description": "Comfortable blue shoes for casual wear.",
+        "keywords": ["shoes", "blue", "casual"]
+    },
+    
+    
+    {
+        "name": "White Shirt",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/White Shirt.webp",
+        "price": "$35",
+        "description": "Classic white shirt for formal and casual wear.",
+        "keywords": ["shirt", "white", "formal", "casual"]
+    },
+    {
+        "name": "Leather Jacket",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Leather Jacket.webp",
+        "price": "$120",
+        "description": "Stylish leather jacket for a trendy look.",
+        "keywords": ["jacket", "leather", "stylish"]
+    },
+    {
+        "name": "Red Handbag",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Red Handbag.avif",
+        "price": "$45",
+        "description": "Chic red handbag for any outfit.",
+        "keywords": ["handbag", "red", "chic"]
+    },
+    {
+        "name": "Denim Jeans",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Denim Jeans.webp",
+        "price": "$60",
+        "description": "Classic denim jeans for everyday wear.",
+        "keywords": ["jeans", "denim", "classic"]
+    },
+    {
+        "name": "Striped Blouse",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Striped Blouse.webp",
+        "price": "$25",
+        "description": "Casual striped blouse for a relaxed look.",
+        "keywords": ["blouse", "striped", "casual"]
+    },
+    {
+        "name": "Sneakers",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Sneakers.webp",
+        "price": "$55",
+        "description": "Versatile sneakers for various activities.",
+        "keywords": ["sneakers", "versatile"]
+    },
+    {
+        "name": "Formal Suit",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Formal Suit.webp",
+        "price": "$250",
+        "description": "Elegant formal suit for special events.",
+        "keywords": ["suit", "formal", "elegant"]
+    },
+    {
+        "name": "Floral Dress",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Floral Dress.webp",
+        "price": "$40",
+        "description": "Pretty floral dress for a feminine touch.",
+        "keywords": ["dress", "floral", "feminine"]
+    },
+
+    
+    {
+        "name": "Cotton T-shirt",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/cotton_tshirt.mht",
+        "price": "$15",
+        "description": "Comfortable cotton t-shirt for everyday wear.",
+        "keywords": ["t-shirt", "cotton", "comfortable"]
+    },
+    {
+        "name": "Athletic Leggings",
+        "image_url": "/Users/harshitsingh/Desktop/wall_images/Athletic Leggings.avif",
+        "price": "$30",
+        "description": "Stretchy athletic leggings for workouts.",
+        "keywords": ["leggings", "athletic", "stretchy"]
+    },
+    {
+        "name": "Vintage Watch",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/vintage_watch.webp",
+        "price": "$80",
+        "description": "Classy vintage watch for a timeless look.",
+        "keywords": ["watch", "vintage", "classy"]
+    },
+    {
+        "name": "Ruffled Skirt",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/ruffled_skirt.webp",
+        "price": "$35",
+        "description": "Charming ruffled skirt for a playful vibe.",
+        "keywords": ["skirt", "ruffled", "charming"]
+    },
+    {
+        "name": "Hooded Sweatshirt",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/hooded_sweatshirt.webp",
+        "price": "$50",
+        "description": "Cozy hooded sweatshirt for chilly days.",
+        "keywords": ["sweatshirt", "hooded", "cozy"]
+    },
+    {
+        "name": "Plaid Scarf",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/plaid_scarf.webp",
+        "price": "$18",
+        "description": "Warm plaid scarf for a stylish winter accessory.",
+        "keywords": ["scarf", "plaid", "warm"]
+    },
+    {
+        "name": "Denim Skirt",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/denim_skirt.webp",
+        "price": "$28",
+        "description": "Casual denim skirt for a versatile look.",
+        "keywords": ["skirt", "denim", "casual"]
+    },
+    {
+        "name": "Knit Sweater",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/knit_sweater.webp",
+        "price": "$45",
+        "description": "Soft knit sweater for a cozy feel.",
+        "keywords": ["sweater", "knit", "soft"]
+    },
+    {
+        "name": "Lace Top",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/lace_top.webp",
+        "price": "$32",
+        "description": "Elegant lace top for a sophisticated look.",
+        "keywords": ["top", "lace", "elegant"]
+    },
+    {
+        "name": "Cargo Pants",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/cargo_pants.webp",
+        "price": "$38",
+        "description": "Durable cargo pants for outdoor activities.",
+        "keywords": ["pants", "cargo", "durable"]
+    },
+    {
+        "name": "Suede Boots",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/suede_boots.webp",
+        "price": "$65",
+        "description": "Chic suede boots to complete your outfit.",
+        "keywords": ["boots", "suede", "chic"]
+    },
+    {
+        "name": "Striped Sweater",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/striped_sweater.webp",
+        "price": "$42",
+        "description": "Classic striped sweater for a timeless style.",
+        "keywords": ["sweater", "striped", "classic"]
+    },
+    {
+        "name": "Jogger Pants",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/jogger_pants.webp",
+        "price": "$28",
+        "description": "Relaxed jogger pants for casual comfort.",
+        "keywords": ["pants", "jogger", "relaxed"]
+    },
+    {
+        "name": "Bohemian Dress",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/bohemian_dress.webp",
+        "price": "$55",
+        "description": "Flowy bohemian dress for a free-spirited vibe.",
+        "keywords": ["dress", "bohemian", "flowy"]
+    },
+    {
+        "name": "Trench Coat",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/trench_coat.webp",
+        "price": "$90",
+        "description": "Classic trench coat for a polished look.",
+        "keywords": ["coat", "trench", "classic"]
+    },
+    {
+        "name": "Button-up Shirt",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/buttonup_shirt.webp",
+        "price": "$32",
+        "description": "Versatile button-up shirt for various occasions.",
+        "keywords": ["shirt", "button-up", "versatile"]
+    },
+    {
+        "name": "Wide-Leg Pants",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/wideleg_pants.webp",
+        "price": "$48",
+        "description": "Fashionable wide-leg pants for a stylish statement.",
+        "keywords": ["pants", "wide-leg", "fashionable"]
+    },
+    {
+        "name": "Turtleneck Sweater",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/turtleneck_sweater.webp",
+        "price": "$55",
+        "description": "Cozy turtleneck sweater for a warm and chic look.",
+        "keywords": ["sweater", "turtleneck", "cozy"]
+    },
+    {
+        "name": "Printed Maxi Skirt",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/printed_maxi_skirt.webp",
+        "price": "$60",
+        "description": "Eye-catching printed maxi skirt for a bold ensemble.",
+        "keywords": ["skirt", "printed", "maxi"]
+    },
+    
+    {
+        "name": "Modern Sectional Sofa",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/Modern Sectional Sofa.svg",
+        "price": "$850",
+        "description": "Sleek modern sectional sofa for stylish living rooms.",
+        "keywords": ["sofa", "modern", "sectional","house","furniture"]
+    },
+    {
+        "name": "Elegant Dining Table",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/elegant_dining_table.webp",
+        "price": "$550",
+        "description": "Elegant dining table for formal gatherings.",
+        "keywords": ["dining table", "elegant", "formal","furniture","home"]
+    },
+    {
+        "name": "Cozy Armchair",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/cozy_armchair.webp",
+        "price": "$280",
+        "description": "Plush and cozy armchair for relaxation.",
+        "keywords": ["armchair", "cozy", "relaxation","house","furniture"]
+    },
+    {
+        "name": "Luxury Perfume",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/luxury_perfume.webp",
+        "price": "$120",
+        "description": "Exquisite luxury perfume for a captivating scent.",
+        "keywords": ["perfume", "luxury", "captivating"]
+    },
+    {
+        "name": "Woody Unisex Cologne",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/woody_cologne.webp",
+        "price": "$65",
+        "description": "Woody unisex cologne for a natural and earthy fragrance.",
+        "keywords": ["cologne", "woody", "unisex"]
+    },
+    {
+        "name": "Chic Vanity Set",
+        "image_url": "/Users/harshitsingh/Desktop/streamlit/wall_images/chic_vanity_set.jpeg",
+        "price": "$320",
+        "description": "Chic vanity set for stylish and functional makeup sessions.",
+        "keywords": ["vanity set", "chic", "makeup","house","furniture"]
+    }
+    
+    
+    
+]
